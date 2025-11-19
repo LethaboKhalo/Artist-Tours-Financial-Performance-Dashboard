@@ -1,19 +1,19 @@
 # Artist-Tours-Financial-Performance-Dashboard
 
-#📌 Overview
+📌 Overview 
 
 This project presents an interactive Power BI dashboard that provides insights into artists’ tours, including their financial performance and attendance trends. The dashboard enables users to analyze Actual Gross revenue, attendance, and performance by tour and country using dynamic visualizations and filters.
 
 The dataset (ArtistTours.xlsx) contains two Excel worksheets that were modeled and visualized in Power BI.
 
-##📊 Features / Requirements Implemented
-#✔️ 1. Data Modeling
+📊 Features / Requirements Implemented
+✔️ 1. Data Modeling
 
 Imported and modeled data from two Excel worksheets contained in the ArtistTours file.
 
 Ensured relationships supported filtering and aggregation across tours and countries.
 
-#✔️ 2. Key Performance Indicators (KPIs)
+✔️ 2. Key Performance Indicators (KPIs)
 
 Three KPI cards were created to summarize tour performance:
 
@@ -25,13 +25,13 @@ Maximum Actual Gross among all tours
 
 All KPIs were formatted appropriately (millions/billions) for readability.
 
-#✔️ 3. Filters / Slicers
+✔️ 3. Filters / Slicers
 
 Added a Country slicer to filter the entire dashboard.
 
 All visuals update dynamically when a country is selected.
 
-#✔️ 4. Visualizations
+✔️ 4. Visualizations
 
 The dashboard includes:
 
@@ -49,7 +49,7 @@ Average attendance per show
 
 Optional visuals to improve insight generation
 
-#✔️ 5. Formatting & Design
+✔️ 5. Formatting & Design
 
 Consistent color themes across visuals
 
@@ -58,7 +58,7 @@ Readable typography for KPI cards and charts
 Layout designed for clarity, simplicity, and professional presentation
 
 
-##🚀 How to Use
+🚀 How to Use
 
 Download the .pbix file.
 
@@ -66,7 +66,7 @@ Open it in Power BI Desktop.
 
 Interact with the slicers and visuals to explore tour insights.
 
-##🔍 Insights You Can Explore
+🔍 Insights You Can Explore
 
 Which tour generated the highest revenue?
 
@@ -76,7 +76,7 @@ Which tours had the largest attendance
 
 Revenue distribution when filtering by specific countries
 
-##📌 Skills Demonstrated
+📌 Skills Demonstrated
 
 Power BI Data Modeling
 
