@@ -1,6 +1,6 @@
 # Artist-Tours-Financial-Performance-Dashboard
 
-📌 Overview 
+##📌 Overview ##
 
 This project presents an interactive Power BI dashboard that provides insights into artists’ tours, including their financial performance and attendance trends. The dashboard enables users to analyze Actual Gross revenue, attendance, and performance by tour and country using dynamic visualizations and filters.
 
